@@ -1,3 +1,29 @@
+## autoware_internal_msgs (humble) - 1.3.0-1
+
+The packages in the `autoware_internal_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble autoware_internal_msgs` on `Thu, 26 Dec 2024 06:06:24 -0000`
+
+These packages were released:
+- `autoware_internal_debug_msgs`
+- `autoware_internal_msgs`
+- `autoware_internal_perception_msgs`
+
+Version of package(s) in repository `autoware_internal_msgs`:
+
+- upstream repository: https://github.com/autowarefoundation/autoware_internal_msgs.git
+- release repository: https://github.com/ros2-gbp/autoware_internal_msgs-release.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## autoware_internal_msgs (humble) - 1.2.0-1
 
 The packages in the `autoware_internal_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble autoware_internal_msgs` on `Thu, 19 Dec 2024 12:34:58 -0000`
