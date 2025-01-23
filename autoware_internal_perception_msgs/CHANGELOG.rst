@@ -2,6 +2,12 @@
 Changelog for package autoware_internal_perception_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.5.0 (2025-01-23)
+------------------
+
+1.4.0 (2025-01-15)
+------------------
+
 1.3.0 (2024-12-26)
 ------------------
 * chore: sync files (`#25 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/25>`_)
