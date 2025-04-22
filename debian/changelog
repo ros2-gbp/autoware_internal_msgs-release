@@ -1,0 +1,88 @@
+ros-kilted-autoware-internal-planning-msgs (1.8.1-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Mon, 07 Apr 2025 05:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.8.0-3bookworm) bookworm; urgency=high
+
+  * feat(autoware_internal_planning_msgs): port routing services from tier4_planning_msgs (#55 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/55>)
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Thu, 27 Mar 2025 05:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.7.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Thu, 06 Mar 2025 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.6.0-3bookworm) bookworm; urgency=high
+
+  * feat: port VelocityLimit messages from tier4_planning_msgs (#49 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/49>)
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Wed, 19 Feb 2025 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.5.0-3bookworm) bookworm; urgency=high
+
+  * feat(autoware_internal_planning_msgs): adaption to autoware_motion_utils (#45 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/45>)
+    * feat(autoware_internal_planning_msgs): add msg required by autoware_motion_utils
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * fix(autoware_internal_planning_msgs): fix PathPoint type error cause by duplicate definition in repo autoware_msgs and autoware_internal_msgs (#46 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/46>)
+    * fix(autoware_internal_planning_msgs): fix PathPoint type error cause by duplicate definition in repo autoware_msgs and autoware_internal_msgs
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * Contributors: NorahXiong
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Thu, 23 Jan 2025 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.4.0-3bookworm) bookworm; urgency=high
+
+  * feat(autoware_internal_planning_msgs): add Scenario.msg (#43 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/43>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * feat(autoware_internal_planning_msgs): add PathWithLaneId.msg (#42 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/42>)
+    * feat(autoware_internal_planning_msgs): add PathWithLaneId.msg
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * Contributors: cyn-liu
+  * feat(autoware_internal_planning_msgs): add Scenario.msg (#43 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/43>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * feat(autoware_internal_planning_msgs): add PathWithLaneId.msg (#42 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/42>)
+    * feat(autoware_internal_planning_msgs): add PathWithLaneId.msg
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * Contributors: cyn-liu
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Wed, 15 Jan 2025 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.3.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Thu, 26 Dec 2024 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.2.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Thu, 19 Dec 2024 06:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.1.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Mon, 01 Jul 2024 05:00:00 -0000
+
+ros-kilted-autoware-internal-planning-msgs (1.0.1-3bookworm) bookworm; urgency=high
+
+
+
+ -- Yukihiro Saito <yukihiro.saito@tier4.jp>  Fri, 10 May 2024 05:00:00 -0000
+
+
