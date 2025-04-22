@@ -1,0 +1,20 @@
+ros-kilted-autoware-internal-metric-msgs (1.8.1-3noble) noble; urgency=high
+
+
+
+ -- Temkei Kem <temkei.kem@tier4.jp>  Mon, 07 Apr 2025 05:00:00 -0000
+
+ros-kilted-autoware-internal-metric-msgs (1.8.0-3noble) noble; urgency=high
+
+
+
+ -- Temkei Kem <temkei.kem@tier4.jp>  Thu, 27 Mar 2025 05:00:00 -0000
+
+ros-kilted-autoware-internal-metric-msgs (1.7.0-3noble) noble; urgency=high
+
+  * feat: port Metric.msg and MetricArray.msg from tier4_metric_msgs (#52 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/52>)
+  * Contributors: NorahXiong
+
+ -- Temkei Kem <temkei.kem@tier4.jp>  Thu, 06 Mar 2025 06:00:00 -0000
+
+
