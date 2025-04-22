@@ -1,1 +1,1 @@
-{"base": "0a0f318", "parent": "debian/rolling/autoware_internal_planning_msgs", "previous": "ca004ec", "trim": "", "trimbase": ""}
+{"base": "003a8c8b30b2", "parent": "debian/kilted/autoware_internal_planning_msgs", "previous": "5389f9987c21", "trim": "", "trimbase": ""}
