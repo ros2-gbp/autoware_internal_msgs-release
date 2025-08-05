@@ -2,6 +2,12 @@
 Changelog for package autoware_internal_debug_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.12.0 (2025-07-25)
+-------------------
+
+1.11.0 (2025-07-23)
+-------------------
+
 1.10.0 (2025-06-03)
 -------------------
 * feat(autoware_internal_debug_msgs): add sericeLog msg, initial commit: v0.0 (`#67 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/67>`_)
