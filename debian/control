@@ -1,0 +1,12 @@
+Source: ros-lyrical-autoware-internal-planning-msgs
+Section: misc
+Priority: optional
+Maintainer: Yukihiro Saito <yukihiro.saito@tier4.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake-auto, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-autoware-common-msgs, ros-lyrical-autoware-perception-msgs, ros-lyrical-autoware-planning-msgs, ros-lyrical-builtin-interfaces, ros-lyrical-geometry-msgs, ros-lyrical-rosidl-default-generators, ros-lyrical-std-msgs, ros-lyrical-unique-identifier-msgs, ros-lyrical-ros-workspace, ros-lyrical-rosidl-typesupport-fastrtps-c, ros-lyrical-rosidl-typesupport-fastrtps-cpp
+Homepage: https://index.ros.org/p/autoware_internal_planning_msgs/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-autoware-internal-planning-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-autoware-common-msgs, ros-lyrical-autoware-perception-msgs, ros-lyrical-autoware-planning-msgs, ros-lyrical-builtin-interfaces, ros-lyrical-geometry-msgs, ros-lyrical-rosidl-default-runtime, ros-lyrical-std-msgs, ros-lyrical-unique-identifier-msgs, ros-lyrical-ros-workspace
+Description: The autoware_internal_planning_msgs package
