@@ -29,6 +29,10 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/PlanningFactor.msg"
   "msg/PlanningFactorArray.msg"
   "msg/RouteState.msg"
+  "msg/MetricReport.msg"
+  "msg/RiskLevel.msg"
+  "msg/ValidationReport.msg"
+  "msg/ValidationReportArray.msg"
   "msg/VelocityLimit.msg"
   "msg/VelocityLimitConstraints.msg"
   "msg/VelocityLimitClearCommand.msg"
@@ -45,6 +49,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
     autoware_common_msgs
     autoware_perception_msgs
     autoware_planning_msgs
+    autoware_vehicle_msgs
 )
 
 if(BUILD_TESTING)
@@ -52,4 +57,4 @@ if(BUILD_TESTING)
   ament_lint_auto_find_test_dependencies()
 endif()
 
-ament_auto_package()
+ament_auto_package(USE_SCOPED_HEADER_INSTALL_DIR)
