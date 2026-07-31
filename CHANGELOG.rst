@@ -2,6 +2,28 @@
 Changelog for package autoware_internal_planning_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.15.0 (2026-07-30)
+-------------------
+* fix: add messages from autoware trajectory validator (`#91 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/91>`_)
+  * fix: add messages from autoware trajectory validator
+  * docs: risk level comments
+  ---------
+* Contributors: Zulfaqar Azmi
+
+1.14.0 (2026-07-13)
+-------------------
+* feat(autoware_internal_planning_msgs): add turn_indicator field to CandidateTrajectory (`#89 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/89>`_)
+  * add turn_indicator field
+  * rename turn indicators command field
+  ---------
+* Contributors: Kotakku
+
+1.13.0 (2026-06-17)
+-------------------
+* refactor(autoware_internal_msgs): add USE_SCOPED_HEADER_INSTALL_DIR (`#86 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/86>`_)
+  Co-authored-by: github-actions <github-actions@github.com>
+* Contributors: Vishal Chauhan
+
 1.12.1 (2025-12-22)
 -------------------
 * docs: add documentation to remaining msg/srv fields (`#82 <https://github.com/autowarefoundation/autoware_internal_msgs/issues/82>`_)
